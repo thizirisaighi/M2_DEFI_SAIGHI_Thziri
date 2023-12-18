@@ -1,4 +1,4 @@
-# M2_DEFI_SAIGHI_Thziri
+# M2_DEFI_SAIGHI_Thiziri
 # M2 DEFI 2023 - Data Visualisation
 
 ## Devoir de M2 DEFI - Data Visualisation
