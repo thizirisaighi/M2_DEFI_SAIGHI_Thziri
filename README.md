@@ -29,7 +29,8 @@ Le profilage criminel est une technique utilisée par les enquêteurs pour ident
 ## Conclusion
 
 Les tueurs en série continuent de susciter l'intérêt du public en raison de la complexité de leurs motivations et de leurs comportements. Leur étude permet de mieux comprendre la psychologie criminelle et de développer des méthodes plus efficaces pour prévenir et résoudre de tels crimes.
-<iframe style="width: 80vw; height: 50vh; border: none;" src="https://mapfact.com/examples/serial-killers"></iframe>
+<iframe style="width: 80vw; height: 50vh; border: none;" src="[https://mapfact.com/examples/serial-killers](https://mapfact.com/examples/serial-killers
+)"></iframe>
 
 
  # M2_DEFI_SAIGHI_Thiziri
