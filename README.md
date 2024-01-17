@@ -26,6 +26,15 @@ Les tueurs en série utilisent souvent des méthodes spécifiques pour perpétre
 
 Le profilage criminel est une technique utilisée par les enquêteurs pour identifier les caractéristiques clés des tueurs en série. Les profilers analysent les scènes de crime, les modèles de comportement et les indices psychologiques pour élaborer des profils susceptibles d'aider à la capture du criminel.
 
+##Requete SPARQL
+SELECT ?serialKiller ?serialKillerLabel
+WHERE
+{
+  ?serialKiller wdt:P31 wd:Q132202.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
+
 ## Conclusion
 
 Les tueurs en série continuent de susciter l'intérêt du public en raison de la complexité de leurs motivations et de leurs comportements. Leur étude permet de mieux comprendre la psychologie criminelle et de développer des méthodes plus efficaces pour prévenir et résoudre de tels crimes.
