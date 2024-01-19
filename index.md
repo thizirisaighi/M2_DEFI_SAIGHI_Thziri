@@ -39,6 +39,7 @@ WHERE {
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
 ```
+## Tueur en Série 
 Comme nous avons au début travailler sur les tueurs en série, par manque de données sur ce sujet assez sensible, nous nous sommes orienté vers le crime en général qui nous fournit plus de données sur ça. Nous avons tout de meme voulut partager cette " seule requete" SPARQL qui a fonctionné et qui nous offre la définition de " Tueur en Série" dans toutes les langues :
 https://w.wiki/8toB        
 ```sparql
