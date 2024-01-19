@@ -74,6 +74,8 @@ WHERE {
 | Auvergne-Rhône-Alpes       	| 69 711 km² 	| 1,1%                	| 8 197 325 habitants.  	|
 
 >>Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
+Sources des informations : https://actu.fr/societe/carte-delinquance-et-criminalite-en-hausse-voici-les-departements-les-plus-touches_56998666.html
+
 
 
 
