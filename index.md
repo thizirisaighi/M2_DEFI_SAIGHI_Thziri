@@ -21,13 +21,14 @@ Les tueurs en série utilisent souvent des méthodes spécifiques pour perpétre
 ## Profilage Criminel
 Le profilage criminel est une technique utilisée par les enquêteurs pour identifier les caractéristiques clés des tueurs en série. Les profilers analysent les scènes de crime, les modèles de comportement et les indices psychologiques pour élaborer des profils susceptibles d'aider à la capture du criminel.
 
-
+# Opendatasoft
 <iframe style="width: 80vw; height: 50vh; border: none;" src="https://public.opendatasoft.com/explore/embed/dataset/crimes-et-delits-enregistres-par-les-forces-de-securite-en-2016-par-departement/map/?location=3,51.45401,35.5957&basemap=jawg.light&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJ2b2xzX2F2ZWNfYXJtZXNfYXJtZXNfYV9mZXVfYXJtZXNfYmxhbmNoZXNfb3VfcGFyX2Rlc3RpbmF0aW9uIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzJDM0Y1NiJ9LHsidHlwZSI6ImNvbHVtbiIsImZ1bmMiOiJBVkciLCJ5QXhpcyI6InZvbHNfdmlvbGVudHNfc2Fuc19hcm1lIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiI0VDNjQzQyJ9LHsidHlwZSI6ImNvbHVtbiIsImZ1bmMiOiJBVkciLCJ5QXhpcyI6InZvbHNfc2Fuc192aW9sZW5jZV9jb250cmVfZGVzX3BlcnNvbm5lcyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNBQkNFRDkifSx7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJjb3Vwc19ldF9ibGVzc3VyZXNfdm9sb250YWlyZXNfc3VyX3BlcnNvbm5lc19kZV8xNV9hbnNfb3VfcGx1cyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNEMDUzNTYifSx7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJjYW1icmlvbGFnZXNfZGVfbG9nZW1lbnQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjNEY4RjU1In0seyJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidm9sc19kZV92ZWhpY3VsZXNfYXV0b21vYmlsZXNfb3VfZGV1eF9yb3Vlc19tb3RvcmlzZXMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjMUI2Njk4In0seyJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidm9sc19kYW5zX2xlc192ZWhpY3VsZXMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjQUEzQzQ0In0seyJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidm9sc19kX2FjY2Vzc29pcmVzX3N1cl92ZWhpY3VsZXMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjRThBRjU1In1dLCJ4QXhpcyI6ImRlcGFydGVtZW50IiwibWF4cG9pbnRzIjo1LCJzb3J0Ijoic2VyaWUxLTIiLCJjb25maWciOnsiZGF0YXNldCI6ImNyaW1lcy1ldC1kZWxpdHMtZW5yZWdpc3RyZXMtcGFyLWxlcy1mb3JjZXMtZGUtc2VjdXJpdGUtZW4tMjAxNi1wYXItZGVwYXJ0ZW1lbnQiLCJvcHRpb25zIjp7fX19XSwidGltZXNjYWxlIjoiIiwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D"></iframe>
 Source Opendatasoft: Nombre des crimes par département en france. 
 
 # Requete SPARQL :
 Nous avons voulu utiliser des reqeuets SPARQL sur WIKIDATA pour avoir récupérer des données sur notre thème principal qui est les crimes et délits en france. Cependant, Wikidata ne nous fournit pas les informations nécessaires sur ce sujet. Nous avons néamoins utiliser une requetes Sparql qui  utilise le service wikibase:label pour obtenir les libellés (labels) de l'entité dans différentes langue 
 ## Le mot "Crime" dans toutes les langues : 
+```sparql
 SELECT ?entite ?entiteLabel ?description
 WHERE {
   VALUES ?term { wd:Q83267 }
@@ -37,6 +38,30 @@ WHERE {
 
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
+```
+Comme nous avons au début travailler sur les tueurs en série, par manque de données sur ce sujet assez sensible, nous nous sommes orienté vers le crime en général qui nous fournit plus de données sur ça. Nous avons tout de meme voulut partager cette " seule requete" SPARQL qui a fonctionné et qui nous offre la définition de " Tueur en Série" dans toutes les langues :
+https://w.wiki/8toB        
+```sparql
+SELECT ?entite ?entiteLabel ?entiteDescription
+WHERE {
+  VALUES ?term { wd:Q484188 }
+  
+  ?term ?predicate ?entite.
+  OPTIONAL { ?entite schema:description ?entiteDescription. }  # Description de l'entité
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+
+SELECT ?entite ?entiteLabel ?entiteDescription
+WHERE {
+  VALUES ?term { wd:Q484188 }
+  
+  ?term ?predicate ?entite.
+  OPTIONAL { ?entite schema:description ?entiteDescription. }  # Description de l'entité
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+```
 
 
 
@@ -46,26 +71,7 @@ WHERE {
 
 
 
-M2_DEFI_SAIGHI_Thiziri
-M2 DEFI 2023 - Data Visualisation
-Devoir de M2 DEFI - Data Visualisation
-Présentation du sujet
-Texte de présentation du sujet...
 
-#Jeu de données
-Informations sur le jeu de données utilisé...
-
-#OpenRefine & WikiData
-Utilisation d'OpenRefine et WikiData...
-
-#Les Visualisations
-Première visualisation
-Analyse
-
-Deuxième visualisation
-Analyse
-
-Troisième visualisation
 Analyse
 
 quatrième visualisation
