@@ -78,6 +78,8 @@ Tableau
 Sources des informations : https://actu.fr/societe/carte-delinquance-et-criminalite-en-hausse-voici-les-departements-les-plus-touches_56998666.html
 
 
+#Présentation Visuelle RAWGraph:
+![Arc Diagrame ](file:///C:/Users/TSA1/Downloads/viz.svg "Titre de l'image").
 
 
 
