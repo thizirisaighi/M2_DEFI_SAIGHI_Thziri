@@ -88,6 +88,7 @@ quatrième visualisation
 <iframe title="[ Les pays du monde au taux de criminalité le plus élevé  ]" aria-label="Interactive line chart" id="datawrapper-chart-ZMMhE" src="https://datawrapper.dwcdn.net/ZMMhE/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400" data-external="1"></iframe>
 
 # Tableau des régions du monde au taux de criminalité le plus élevé au plus bas  : 
+<iframe title="[ Cartes Taux de criminalité dans le monde   ]" aria-label="Map" id="datawrapper-chart-wXqzv" src="https://datawrapper.dwcdn.net/wXqzv/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="381" data-external="1"></iframe>
 
 | Pays                   | Taux de criminalité | LAT       | LONG      |
 |------------------------|---------------------|-----------|-----------|
