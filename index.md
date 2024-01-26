@@ -87,7 +87,8 @@ quatrième visualisation
 <iframe title="[ Les pays du monde au taux de criminalité le plus élevé  ]" aria-label="Interactive line chart" id="datawrapper-chart-ZMMhE" src="https://datawrapper.dwcdn.net/ZMMhE/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400" data-external="1"></iframe>
 
 #Tableau des région du monde au taux de criminalité le plus élevé : 
-|| Pays                      | Taux de criminalité | LAT         | LONG          |
+
+| Pays                      | Taux de criminalité | LAT         | LONG          |
 |---------------------------|---------------------|-------------|---------------|
 | Venezuela                 | 82,08               | 6.4238° N   | 66.5897° W    |
 | Papouasie-Nouvelle-Guinée | 80,38               | 6.3150° S   | 143.9555° E   |
@@ -104,6 +105,7 @@ quatrième visualisation
 | Brésil                    | 66,13               | 14.2350° S  | 51.9253° W    |
 | Nigeria                   | 65,84               | 9.0820° N   | 8.6753° E     |
 | Angola                    | 65,82               | 11.2027° S  | 17.8739° E    |
+
 
 Conclusion
 Conclusion générale du devoir...
