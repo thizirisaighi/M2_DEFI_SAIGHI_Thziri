@@ -69,10 +69,11 @@ WHERE {
 | Régions                    	| Superficie 	| Taux de criminalité 	| Population            	|
 |----------------------------	|------------	|---------------------	|-----------------------	|
 | Provence-Alpes-Côte d'Azur 	| 31 400 km² 	| 1,4%                	| 5 160 091 habitants   	|
-| Île-de-France              	| 12 012 km² 	| 1,3%                	| 12 358 932 habitants. 	|
+| Île-de-France              	| 12 012 km² 	| 1,3%                	| 12 358 932 habitants  	|
 | Occitanie                  	| 72 724 km² 	| 1,2%                	| 6 101 005 habitants   	|
 | Hauts-de-France            	| 31 813 km² 	| 1,1%                	| 5 980 697 habitants   	|
-| Auvergne-Rhône-Alpes       	| 69 711 km² 	| 1,1%                	| 8 197 325 habitants.  	|
+| Auvergne-Rhône-Alpes       	| 69 711 km² 	| 1,1%                	| 8 197 325 habitants  	|
+
 >>Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
 Sources des informations : https://actu.fr/societe/carte-delinquance-et-criminalite-en-hausse-voici-les-departements-les-plus-touches_56998666.html
 
