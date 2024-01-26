@@ -80,7 +80,9 @@ WHERE {
 Sources des informations : https://actu.fr/societe/carte-delinquance-et-criminalite-en-hausse-voici-les-departements-les-plus-touches_56998666.html
 >>
 #Présentation Visuelle
-<iframe title="[ Les pays du monde au taux de criminalité le plus élevé  ]" aria-label="Interactive line chart" id="datawrapper-chart-ZMMhE" src="https://datawrapper.dwcdn.net/ZMMhE/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400" data-external="1"></iframe>
+
+<iframe title="[Les régions  de France au taux de criminalité et population]" aria-label="Multiple Pies" id="datawrapper-chart-9kRls" src="https://datawrapper.dwcdn.net/9kRls/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="388" data-external="1"></iframe>
+  Notre graphe mets en avant le fait que le taux de criminalité  est étroitement lié à la population, mais il y a d’autres facteurs qui peuvent également influencer le taux de criminalité, tels que le niveau de pauvreté, la densité de population, la qualité de l’éducation, la qualité de vie, etc. Il est important de noter que la corrélation ne signifie pas nécessairement la causalité.
 
 
 
