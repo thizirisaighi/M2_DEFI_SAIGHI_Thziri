@@ -66,13 +66,14 @@ WHERE {
 ```
 # Tableau des Régions de France au taux de criminalité le plus élévé avec leur superfécie et la population. 
 
-| Régions                   | Superficie | Taux de criminalité | Population            |
-|---------------------------|------------|---------------------|-----------------------|
-| Provence-Alpes-Côte d’Azur | 31 400 km² | 1,4%                | 5 160 091 habitants   |
-| Île-de-France             | 12 012 km² | 1,3%                | 12 358 932 habitants  |
-| Occitanie                 | 72 724 km² | 1,2%                | 6 101 005 habitants   |
-| Hauts-de-France           | 31 813 km² | 1,1%                | 5 980 697 habitants   |
-| Auvergne-Rhône-Alpes      | 69 711 km² | 1,1%                | 8 197 325 habitants   |
+| Régions                                | Superficie | Taux de criminalité | Population        |
+|----------------------------------------|------------|---------------------|-------------------|
+| Nord-Pas-de-Calais-Picardie            | 31 813 km² | 10,64%              | 6 009 976         |
+| Provence-Alpes-Côte d’Azur              | 31 400 km² | 9,71%               | 5 160 335         |
+| Languedoc-Roussillon-Midi-Pyrénées     | 72 724 km² | 9,27%               | 6 004 624         |
+| Aquitaine-Limousin-Poitou-Charentes    | 84 062 km² | 8,99%               | 6 003 982         |
+| Bourgogne-Franche-Comté                | 47 784 km² | 8,79%               | 3 577 776         |
+
 
 
 >>Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
