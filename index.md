@@ -86,11 +86,10 @@ Sources des informations : https://actu.fr/societe/carte-delinquance-et-criminal
 
 
 
-
-
 Analyse
 
 quatrième visualisation
+<iframe title="[ Les pays du monde au taux de criminalité le plus élevé  ]" aria-label="Interactive line chart" id="datawrapper-chart-ZMMhE" src="https://datawrapper.dwcdn.net/ZMMhE/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400" data-external="1"></iframe>
 Analyse
 
 Conclusion
