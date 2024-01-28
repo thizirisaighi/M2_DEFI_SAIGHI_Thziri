@@ -132,9 +132,7 @@ quatrième visualisation
  ces indicateurs peuvent  être affectés par des facteurs sociaux communs tels que le niveau de développement, la qualité des services publics, ou la stabilité sociale, il est important de noter qu'ils ne sont pas intrinsèquement liés de manière causale. Une société peut avoir un taux de mortalité élevé sans nécessairement avoir un taux de criminalité élevé, et vice versa. Les indicateurs doivent être compris dans leur contexte spécifique pour tirer des conclusions significatives sur le niveau de sécurité et de bien-être dans une société donnée.
 
 
-# Tableau des criminels qui ont marqué l'histoire 
-Bien sûr, voici la liste des personnes sous forme de tableau Markdown sans les URLs :
-
+# Tableau des criminels qui ont marqué l'histoire:
 
 | Nom            | Âge | Nationalité | Genre  |
 |----------------|-----|-------------|--------|
@@ -157,6 +155,7 @@ Bien sûr, voici la liste des personnes sous forme de tableau Markdown sans les 
 | Thierry Paulin   | 22  | Français    | Homme  |
 | Andrex Cunanan   | 27  | Américain   | Homme  |
 | Griselda Blanco  | 69  | Colombie    | Femme |
+
 
 >>Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
 Source : https://www.jesuismort.com/cimetiere/criminel-et-criminelle
