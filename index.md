@@ -132,6 +132,37 @@ quatrième visualisation
  ces indicateurs peuvent  être affectés par des facteurs sociaux communs tels que le niveau de développement, la qualité des services publics, ou la stabilité sociale, il est important de noter qu'ils ne sont pas intrinsèquement liés de manière causale. Une société peut avoir un taux de mortalité élevé sans nécessairement avoir un taux de criminalité élevé, et vice versa. Les indicateurs doivent être compris dans leur contexte spécifique pour tirer des conclusions significatives sur le niveau de sécurité et de bien-être dans une société donnée.
 
 
+# Tableau des criminels qui ont marqué l'histoire 
+Bien sûr, voici la liste des personnes sous forme de tableau Markdown sans les URLs :
+
+
+| Nom            | Âge | Nationalité | Genre  |
+|----------------|-----|-------------|--------|
+| Josef Mengele  | 67  | Allemand    | Homme  |
+| Gilles Bertin   | 58  | Français    | Homme  |
+| Charles Manson  | 83  | Américain   | Homme  |
+| Al Capone       | 48  | Américain   | Homme  |
+| Ted Bandy       | 42  | Américain   | Homme  |
+| Jeffrey Dahmer  | 34  | Américain   | Homme  |
+| Lucky Luciano   | 66  | Italien     | Homme  |
+| Albert Fish     | 65  | Américain   | Homme  |
+| Emile Louis      | 79  | Français    | Homme  |
+| Bonnie Parker    | 23  | Américaine  | Femme |
+| Anne Perry       | 84  | Anglaise    | Femme |
+| Lisa M.Montgo    | 52  | Américain   | Femme |
+| Phil Spector     | 81  | Américaine  | Homme  |
+| Kang Kek Ieu     | 77  | Cambodge    | Homme  |
+| Richard Blass    | 29  | Canada      | Homme  |
+| Peter Sutcliffe  | 74  | Londres     | Homme  |
+| Thierry Paulin   | 22  | Français    | Homme  |
+| Andrex Cunanan   | 27  | Américain   | Homme  |
+| Griselda Blanco  | 69  | Colombie    | Femme |
+>>Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
+Source : https://www.jesuismort.com/cimetiere/criminel-et-criminelle
+
+
+Vous pouvez copier-coller ce tableau dans votre code Markdown.
+
  # Pays et indices de sécurité . 
   Le taux de criminalité dans les pays ainsi que l'indice de sécurité sont étroitement liés
 
