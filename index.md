@@ -123,5 +123,6 @@ quatrième visualisation
 # Visualisation :
 <iframe title="[ Régions de France taux de criminalité / Population ]" aria-label="Multiple Pies" id="datawrapper-chart-wBG2J" src="https://datawrapper.dwcdn.net/wBG2J/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="388" data-external="1"></iframe>
 
-Conclusion
-Conclusion générale du devoir...
+# Dans le monde les cintinents 
+
+<iframe title="Les 7 continents " aria-label="Multiple Donuts" id="datawrapper-chart-gkvjn" src="https://datawrapper.dwcdn.net/gkvjn/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="418" data-external="1"></iframe>
