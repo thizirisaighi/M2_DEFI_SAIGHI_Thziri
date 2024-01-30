@@ -1,5 +1,3 @@
-
-
 # L'univers du Crime : Où Mystères et Intrigues Se Côtoient - Âmes Sensibles, S'Abstenir!"
 
 # Sommaire
