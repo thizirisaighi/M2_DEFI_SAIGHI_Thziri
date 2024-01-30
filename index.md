@@ -187,9 +187,17 @@ Source : https://www.jesuismort.com/cimetiere/criminel-et-criminelle
 
 <iframe src='https://flo.uri.sh/visualisation/16607087/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16607087/?utm_source=embed&utm_campaign=visualisation/16607087' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
+### Jeffrey Dhamer
+Jeffrey Dahmer, également connu sous le nom de "The Milwaukee Cannibal" ou "The Milwaukee Monster", était un criminel américain notoire et un tueur en série. Né le 21 mai 1960 à Milwaukee, Wisconsin, Dahmer a été reconnu coupable d'avoir commis le meurtre de 17 jeunes hommes entre 1978 et 1991. Ses crimes incluaient le meurtre, le démembrement et la mutilation de ses victimes.
 
+Dahmer a été arrêté en 1991 et condamné à 16 peines de réclusion à perpétuité. En prison, il a été battu à mort par un autre détenu en 1994.
+
+Les crimes de Jeffrey Dahmer ont choqué le public en raison de leur brutalité et de la nature choquante des actes qu'il a commis. Dahmer a été décrit comme l'un des tueurs en série les plus notoires de l'histoire criminelle américaine.
  
-  
+Voici les 15 premières victimesde Jeffrey Dahmer:
+
+<iframe src='https://flo.uri.sh/visualisation/16630213/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16630213/?utm_source=embed&utm_campaign=visualisation/16630213' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+>>> Généré par Flourish
 
   
  
