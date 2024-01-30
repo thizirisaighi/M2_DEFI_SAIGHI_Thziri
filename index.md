@@ -11,6 +11,7 @@
 5. [Crimes Raciaux  à New York](#NewYork)
 6. [Crimes dans le Monde](#Monde)
 7. [Tableau des tueurs en série qui ont marqué l'histoire](#Histoire)
+8. [Conclusion](#Conclusions)
 
 # Introduction <a name="Intro"></a> 
 
@@ -211,5 +212,11 @@ Voici les 15 premières victimesde Jeffrey Dahmer:
 <iframe src='https://flo.uri.sh/visualisation/16630213/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16630213/?utm_source=embed&utm_campaign=visualisation/16630213' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 >>> Généré par Flourish
 
+# Conclusion <a name="Conclusion"></a> 
+Il est important de noter que l'idée que les criminels, en particulier ceux qui ont commis des actes graves, peuvent vivre de manière normale et souriante parmi nous est complexe. Certains individus peuvent masquer habilement leurs activités criminelles derrière une apparence de normalité comme le cas deJffrey Dahmer entre autres, , utilisant souvent des mécanismes d'adaptation sociaux pour se fondre dans la société. Cela peut rendre difficile la détection de comportements criminels.
+
+Il est également crucial de se rappeler que l'apparence extérieure ne reflète pas toujours la réalité profonde d'une personne. Les criminels, même ceux qui semblent vivre normalement, peuvent être en proie à des problèmes psychologiques, des troubles mentaux ou des motivations complexes qui ne sont pas immédiatement apparents.
+
+La société doit donc rester vigilante et consciente de la diversité des comportements humains. Les autorités chargées de l'application de la loi, les professionnels de la santé mentale et la communauté dans son ensemble jouent un rôle essentiel dans la détection précoce, la prévention et le traitement des comportements criminels. Une compréhension approfondie de ces questions est nécessaire pour maintenir la sécurité publique et aider ceux qui peuvent être enclins à des comportements déviants à trouver un soutien approprié.
   
  
