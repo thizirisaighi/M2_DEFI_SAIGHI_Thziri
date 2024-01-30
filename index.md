@@ -4,8 +4,14 @@
 
 
 # Sommaire
-1. [Introduction](#Intro)  
-
+1. [Introduction](#Intro)
+2. [Tueurs en Série](#Série)
+3. [Requete SPARQL](#SPARQL)
+4. [Crimes dans les régions de France](#Crimes)
+5. [Crimes Raciaux  à New York](#NewYork)
+6. [Crimes dans le Monde](#Monde)
+7. [Tableau des tueurs en série qui ont marqué l'histoire](#Histoire)
+8. 
 # Introduction <a name="Intro"></a> 
 
 Bienvenue dans ce projet dédié à l'analyse approfondie et à l'exploration du domaine complexe et fascinant des crimes. À travers cette initiative, notre objectif est de plonger dans les différentes dimensions du comportement criminel, d'identifier les tendances émergentes, et de comprendre les enjeux sociaux associés à ce phénomène.
@@ -19,7 +25,7 @@ Ce projet a pour objectifs principaux : analyser les différentes formes de crim
 Dans ce contexte, le terme "crime" fait référence à un acte ou une conduite interdite par la loi, entraînant une peine ou une sanction pénale. Les "tendances criminelles" désignent les modèles et évolutions observés dans la fréquence et la nature des crimes au fil du temps. La "prévention du crime" englobe l'ensemble des mesures visant à réduire l'incidence du crime, dissuader les délinquants, et promouvoir la sécurité publique. La "justice pénale" se réfère au système légal et institutionnel chargé de punir les criminels et de réhabiliter les délinquants.
 Parailleurs, nous avons voulu plonger dans le monde des tueurs en séries. Un sujet sensible pour lequel la collecte d'informations était très compliquée, mais nous avons tout de même réussi à faire quelques analyses et quelques visualisations.
 
-# Tueurs en Série  
+# Tueurs en Série <a name="Série"></a>   
 Les tueurs en série, également connus sous le nom de "serial killers," suscitent fascination et horreur dans l'imaginaire collectif. Ces individus commettent une série de meurtres, souvent avec une méthode distincte, et présentent des caractéristiques psychologiques particulières. Cette présentation explorera la définition, les profils, les motifs et les méthodes associés aux tueurs en série.
 
 ## Définition
@@ -29,7 +35,8 @@ Un tueur en série est défini comme une personne qui commet au moins trois meur
 Motifs et Caractéristiques
 Les tueurs en série présentent souvent des motifs récurrents et des caractéristiques psychologiques distinctes. Certains peuvent être motivés par le plaisir du meurtre, la satisfaction émotionnelle, le pouvoir, la domination, ou même des motifs religieux ou politiques. Leurs profils varient, mais beaucoup partagent des traits tels que la manipulation, la superficialité émotionnelle et la difficulté à établir des relations interpersonnelles.
 
-# Requete SPARQL :
+# Requete SPARQL <a name="SPARQL"></a> 
+
 Nous avons voulu utiliser des reqeuets SPARQL sur WIKIDATA pour avoir récupérer des données sur notre thème principal qui est les crimes et délits. Cependant, Wikidata ne nous fournit pas les informations nécessaires sur ce sujet. Nous avons néamoins utiliser une requetes Sparql qui  utilise le service wikibase:label pour obtenir les libellés (labels) de l'entité dans différentes langue 
 ## Le mot "Crime" dans toutes les langues : 
 ```sparql
@@ -70,7 +77,8 @@ WHERE {
 
 
 
-# Crimes dans les régions de France
+# Crimes dans les régions de France <a name="Crimes"></a> 
+
 Pour cette première visualisation, nous avons voulu présenter les départements de France avec leurs populations,nombre de logements ainsi que l'ensemble des crimes et délits enregistrés par les forces de sécurité en 2016.  
  
 <iframe style="width: 80vw; height: 50vh; border: none;" src="https://public.opendatasoft.com/explore/embed/dataset/crimes-et-delits-enregistres-par-les-forces-de-securite-en-2016-par-departement/map/?location=3,51.45401,35.5957&basemap=jawg.light&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJ2b2xzX2F2ZWNfYXJtZXNfYXJtZXNfYV9mZXVfYXJtZXNfYmxhbmNoZXNfb3VfcGFyX2Rlc3RpbmF0aW9uIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzJDM0Y1NiJ9LHsidHlwZSI6ImNvbHVtbiIsImZ1bmMiOiJBVkciLCJ5QXhpcyI6InZvbHNfdmlvbGVudHNfc2Fuc19hcm1lIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiI0VDNjQzQyJ9LHsidHlwZSI6ImNvbHVtbiIsImZ1bmMiOiJBVkciLCJ5QXhpcyI6InZvbHNfc2Fuc192aW9sZW5jZV9jb250cmVfZGVzX3BlcnNvbm5lcyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNBQkNFRDkifSx7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJjb3Vwc19ldF9ibGVzc3VyZXNfdm9sb250YWlyZXNfc3VyX3BlcnNvbm5lc19kZV8xNV9hbnNfb3VfcGx1cyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNEMDUzNTYifSx7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJjYW1icmlvbGFnZXNfZGVfbG9nZW1lbnQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjNEY4RjU1In0seyJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidm9sc19kZV92ZWhpY3VsZXNfYXV0b21vYmlsZXNfb3VfZGV1eF9yb3Vlc19tb3RvcmlzZXMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjMUI2Njk4In0seyJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidm9sc19kYW5zX2xlc192ZWhpY3VsZXMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjQUEzQzQ0In0seyJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidm9sc19kX2FjY2Vzc29pcmVzX3N1cl92ZWhpY3VsZXMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjRThBRjU1In1dLCJ4QXhpcyI6ImRlcGFydGVtZW50IiwibWF4cG9pbnRzIjo1LCJzb3J0Ijoic2VyaWUxLTIiLCJjb25maWciOnsiZGF0YXNldCI6ImNyaW1lcy1ldC1kZWxpdHMtZW5yZWdpc3RyZXMtcGFyLWxlcy1mb3JjZXMtZGUtc2VjdXJpdGUtZW4tMjAxNi1wYXItZGVwYXJ0ZW1lbnQiLCJvcHRpb25zIjp7fX19XSwidGltZXNjYWxlIjoiIiwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D"></iframe>
@@ -99,13 +107,13 @@ Nous avons cette visualisation qui mets en avant le taux de polupation ainsi que
 
 >>> Généré par Datawapper
 
- # Crimes Raciaux  à New York 
+ # Crimes Raciaux  à New York <a name="NewYork"></a>  
  Dans ce graph, nous avonc filtré nos données selon le genre du criminel ( femme ou homme) et les crimes raciaux. 
 ![Rawgraph Visualisation](https://raw.githubusercontent.com/thizirisaighi/M2_DEFI_SAIGHI_Thziri/main/viz(1).svg)
 
 
 
-# Crimes dans le monde 
+# Crimes dans le monde<a name="Monde"></a> 
 
 | Pays                   | Taux de criminalité | LAT       | LONG      |
 |------------------------|---------------------|-----------|-----------|
@@ -155,7 +163,7 @@ Nous avons cette visualisation qui mets en avant le taux de polupation ainsi que
 
 
 
-# Tableau des tueurs en série qui ont marqué l'histoire:
+# Tableau des tueurs en série qui ont marqué l'histoire <a name="Histoire"></a> 
 
 | Nom            | Âge | Nationalité | Genre  |
 |----------------|-----|-------------|--------|
@@ -188,6 +196,8 @@ Source : https://www.jesuismort.com/cimetiere/criminel-et-criminelle
 <iframe src='https://flo.uri.sh/visualisation/16607087/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16607087/?utm_source=embed&utm_campaign=visualisation/16607087' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 ### Jeffrey Dhamer
+
+
 Jeffrey Dahmer, également connu sous le nom de "The Milwaukee Cannibal" ou "The Milwaukee Monster", était un criminel américain notoire et un tueur en série. Né le 21 mai 1960 à Milwaukee, Wisconsin, Dahmer a été reconnu coupable d'avoir commis le meurtre de 17 jeunes hommes entre 1978 et 1991. Ses crimes incluaient le meurtre, le démembrement et la mutilation de ses victimes.
 
 Dahmer a été arrêté en 1991 et condamné à 16 peines de réclusion à perpétuité. En prison, il a été battu à mort par un autre détenu en 1994.
