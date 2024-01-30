@@ -1,8 +1,24 @@
-# Les Tueurs en Série : Profilage et Compréhension
+
+
+# L'univers du Crime : Où Mystères et Intrigues Se Côtoient - Âmes Sensibles, S'Abstenir!"
 
 # Sommaire
-1. [Introduction](#Intro)
-## Introduction <a name="Intro"></a>
+1. [Introduction](#Intro)  
+
+# Introduction <a name="Intro"></a> 
+
+Bienvenue dans ce projet dédié à l'analyse approfondie et à l'exploration du domaine complexe et fascinant des crimes. À travers cette initiative, notre objectif est de plonger dans les différentes dimensions du comportement criminel, d'identifier les tendances émergentes, et de comprendre les enjeux sociaux associés à ce phénomène.
+
+## Objectifs
+
+Ce projet a pour objectifs principaux : analyser les différentes formes de crimes et leurs manifestations dans la société, examiner les évolutions contemporaines qui influent sur la nature et la prévalence des crimes, comprendre les facteurs sous-jacents qui contribuent au comportement criminel, évaluer les politiques de prévention et les méthodes de justice dans la lutte contre le crime, ainsi que explorer les avancées technologiques et les innovations en matière de lutte contre le crime.
+
+## Définitions
+
+Dans ce contexte, le terme "crime" fait référence à un acte ou une conduite interdite par la loi, entraînant une peine ou une sanction pénale. Les "tendances criminelles" désignent les modèles et évolutions observés dans la fréquence et la nature des crimes au fil du temps. La "prévention du crime" englobe l'ensemble des mesures visant à réduire l'incidence du crime, dissuader les délinquants, et promouvoir la sécurité publique. La "justice pénale" se réfère au système légal et institutionnel chargé de punir les criminels et de réhabiliter les délinquants.
+Parailleurs, nous avons voulu plonger dans le monde des tueurs en séries. Un sujet sensible pour lequel la collecte d'informations était très compliquée, mais nous avons tout de même réussi à faire quelques analyses et quelques visualisations.
+
+# Tueurs en Série  
 Les tueurs en série, également connus sous le nom de "serial killers," suscitent fascination et horreur dans l'imaginaire collectif. Ces individus commettent une série de meurtres, souvent avec une méthode distincte, et présentent des caractéristiques psychologiques particulières. Cette présentation explorera la définition, les profils, les motifs et les méthodes associés aux tueurs en série.
 
 ## Définition
@@ -12,23 +28,8 @@ Un tueur en série est défini comme une personne qui commet au moins trois meur
 Motifs et Caractéristiques
 Les tueurs en série présentent souvent des motifs récurrents et des caractéristiques psychologiques distinctes. Certains peuvent être motivés par le plaisir du meurtre, la satisfaction émotionnelle, le pouvoir, la domination, ou même des motifs religieux ou politiques. Leurs profils varient, mais beaucoup partagent des traits tels que la manipulation, la superficialité émotionnelle et la difficulté à établir des relations interpersonnelles.
 
-Typologie
-Le FBI a développé une typologie des tueurs en série, les classifiant en différents types, tels que les tueurs organisés, les tueurs désorganisés, les tueurs de masse, et plus encore. Cette classification aide les enquêteurs à comprendre les schémas de comportement et à élaborer des stratégies pour les appréhender.
-
-## Méthodes et Modus Operandi
-Les tueurs en série utilisent souvent des méthodes spécifiques pour perpétrer leurs crimes. Leur modus operandi peut inclure des rituels, des signatures distinctives, ou des choix spécifiques de victimes. Certains privilégient certaines armes ou méthodes d'étranglement, tandis que d'autres préfèrent des emplacements particuliers pour leurs crimes.
-
-## Profilage Criminel
-Le profilage criminel est une technique utilisée par les enquêteurs pour identifier les caractéristiques clés des tueurs en série. Les profilers analysent les scènes de crime, les modèles de comportement et les indices psychologiques pour élaborer des profils susceptibles d'aider à la capture du criminel.
-
-# Opendatasoft
-## Crimes et délits enregistrés par les forces de sécurité en 2016 par département 
-<iframe style="width: 80vw; height: 50vh; border: none;" src="https://public.opendatasoft.com/explore/embed/dataset/crimes-et-delits-enregistres-par-les-forces-de-securite-en-2016-par-departement/map/?location=3,51.45401,35.5957&basemap=jawg.light&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJ2b2xzX2F2ZWNfYXJtZXNfYXJtZXNfYV9mZXVfYXJtZXNfYmxhbmNoZXNfb3VfcGFyX2Rlc3RpbmF0aW9uIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzJDM0Y1NiJ9LHsidHlwZSI6ImNvbHVtbiIsImZ1bmMiOiJBVkciLCJ5QXhpcyI6InZvbHNfdmlvbGVudHNfc2Fuc19hcm1lIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiI0VDNjQzQyJ9LHsidHlwZSI6ImNvbHVtbiIsImZ1bmMiOiJBVkciLCJ5QXhpcyI6InZvbHNfc2Fuc192aW9sZW5jZV9jb250cmVfZGVzX3BlcnNvbm5lcyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNBQkNFRDkifSx7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJjb3Vwc19ldF9ibGVzc3VyZXNfdm9sb250YWlyZXNfc3VyX3BlcnNvbm5lc19kZV8xNV9hbnNfb3VfcGx1cyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNEMDUzNTYifSx7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJjYW1icmlvbGFnZXNfZGVfbG9nZW1lbnQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjNEY4RjU1In0seyJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidm9sc19kZV92ZWhpY3VsZXNfYXV0b21vYmlsZXNfb3VfZGV1eF9yb3Vlc19tb3RvcmlzZXMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjMUI2Njk4In0seyJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidm9sc19kYW5zX2xlc192ZWhpY3VsZXMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjQUEzQzQ0In0seyJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidm9sc19kX2FjY2Vzc29pcmVzX3N1cl92ZWhpY3VsZXMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjRThBRjU1In1dLCJ4QXhpcyI6ImRlcGFydGVtZW50IiwibWF4cG9pbnRzIjo1LCJzb3J0Ijoic2VyaWUxLTIiLCJjb25maWciOnsiZGF0YXNldCI6ImNyaW1lcy1ldC1kZWxpdHMtZW5yZWdpc3RyZXMtcGFyLWxlcy1mb3JjZXMtZGUtc2VjdXJpdGUtZW4tMjAxNi1wYXItZGVwYXJ0ZW1lbnQiLCJvcHRpb25zIjp7fX19XSwidGltZXNjYWxlIjoiIiwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D"></iframe>
-
-Source Opendatasoft: Nombre des crimes par département en france: https://www.interieur.gouv.fr/Interstats/Actualites/Insecurite-et-delinquance-en-2016-premier-bilan-statistique.  
-
 # Requete SPARQL :
-Nous avons voulu utiliser des reqeuets SPARQL sur WIKIDATA pour avoir récupérer des données sur notre thème principal qui est les crimes et délits en france. Cependant, Wikidata ne nous fournit pas les informations nécessaires sur ce sujet. Nous avons néamoins utiliser une requetes Sparql qui  utilise le service wikibase:label pour obtenir les libellés (labels) de l'entité dans différentes langue 
+Nous avons voulu utiliser des reqeuets SPARQL sur WIKIDATA pour avoir récupérer des données sur notre thème principal qui est les crimes et délits. Cependant, Wikidata ne nous fournit pas les informations nécessaires sur ce sujet. Nous avons néamoins utiliser une requetes Sparql qui  utilise le service wikibase:label pour obtenir les libellés (labels) de l'entité dans différentes langue 
 ## Le mot "Crime" dans toutes les langues : 
 ```sparql
 SELECT ?entite ?entiteLabel ?description
@@ -42,7 +43,7 @@ WHERE {
 }
 ```
 ## Tueur en Série 
-Comme nous avons au début travailler sur les tueurs en série, par manque de données sur ce sujet assez sensible, nous nous sommes orienté vers le crime en général qui nous fournit plus de données sur ça. Nous avons tout de meme voulut partager cette " seule requete" SPARQL qui a fonctionné et qui nous offre la définition de " Tueur en Série" dans toutes les langues :
+De même que pour "Crime", nous avons eu des difficultés à faire tourner des requetes sur les tueurs en séries. Nous avons tout de meme voulut partager cette " seule requete" SPARQL qui a fonctionné et qui nous offre la définition de " Tueur en Série" dans toutes les langues :
 https://w.wiki/8toB        
 ```sparql
 SELECT ?entite ?entiteLabel ?entiteDescription
@@ -65,7 +66,18 @@ WHERE {
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
 }
 ```
-# Tableau des Régions de France au taux de criminalité le plus élévé avec leur superfécie et la population. 
+
+
+
+# Crimes dans les régions de France
+Pour cette première visualisation, nous avons voulu présenter les départements de France avec leurs populations,nombre de logements ainsi que l'ensemble des crimes et délits enregistrés par les forces de sécurité en 2016.  
+ 
+<iframe style="width: 80vw; height: 50vh; border: none;" src="https://public.opendatasoft.com/explore/embed/dataset/crimes-et-delits-enregistres-par-les-forces-de-securite-en-2016-par-departement/map/?location=3,51.45401,35.5957&basemap=jawg.light&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJ2b2xzX2F2ZWNfYXJtZXNfYXJtZXNfYV9mZXVfYXJtZXNfYmxhbmNoZXNfb3VfcGFyX2Rlc3RpbmF0aW9uIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiIzJDM0Y1NiJ9LHsidHlwZSI6ImNvbHVtbiIsImZ1bmMiOiJBVkciLCJ5QXhpcyI6InZvbHNfdmlvbGVudHNfc2Fuc19hcm1lIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiI0VDNjQzQyJ9LHsidHlwZSI6ImNvbHVtbiIsImZ1bmMiOiJBVkciLCJ5QXhpcyI6InZvbHNfc2Fuc192aW9sZW5jZV9jb250cmVfZGVzX3BlcnNvbm5lcyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNBQkNFRDkifSx7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJjb3Vwc19ldF9ibGVzc3VyZXNfdm9sb250YWlyZXNfc3VyX3BlcnNvbm5lc19kZV8xNV9hbnNfb3VfcGx1cyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNEMDUzNTYifSx7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJjYW1icmlvbGFnZXNfZGVfbG9nZW1lbnQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjNEY4RjU1In0seyJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidm9sc19kZV92ZWhpY3VsZXNfYXV0b21vYmlsZXNfb3VfZGV1eF9yb3Vlc19tb3RvcmlzZXMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjMUI2Njk4In0seyJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidm9sc19kYW5zX2xlc192ZWhpY3VsZXMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjQUEzQzQ0In0seyJ0eXBlIjoiY29sdW1uIiwiZnVuYyI6IkFWRyIsInlBeGlzIjoidm9sc19kX2FjY2Vzc29pcmVzX3N1cl92ZWhpY3VsZXMiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjRThBRjU1In1dLCJ4QXhpcyI6ImRlcGFydGVtZW50IiwibWF4cG9pbnRzIjo1LCJzb3J0Ijoic2VyaWUxLTIiLCJjb25maWciOnsiZGF0YXNldCI6ImNyaW1lcy1ldC1kZWxpdHMtZW5yZWdpc3RyZXMtcGFyLWxlcy1mb3JjZXMtZGUtc2VjdXJpdGUtZW4tMjAxNi1wYXItZGVwYXJ0ZW1lbnQiLCJvcHRpb25zIjp7fX19XSwidGltZXNjYWxlIjoiIiwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D"></iframe>
+
+Source Opendatasoft: Nombre des crimes par département en france: https://www.interieur.gouv.fr/Interstats/Actualites/Insecurite-et-delinquance-en-2016-premier-bilan-statistique.  
+
+
+## Tableau des Régions de France au taux de criminalité le plus élévé avec leur superfécie et la population. 
 
 | Régions                                | Superficie | Taux de criminalité | Population        |
 |----------------------------------------|------------|---------------------|-------------------|
@@ -76,19 +88,17 @@ WHERE {
 | Bourgogne-Franche-Comté                | 47 784 km² | 8,79%               | 3 577 776         |
 
 
-
 >>Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
 Sources des informations : https://actu.fr/societe/carte-delinquance-et-criminalite-en-hausse-voici-les-departements-les-plus-touches_56998666.html
->>
-#Présentation Visuelle
 
-Analyse
+## Visualisation :
+Nous avons cette visualisation qui mets en avant le taux de polupation ainsi que le taux de ciminalité. Ce qui nous permet d'étudier le lien étroit qu'entretiennent ces deux variables. En conclusion, il semble que le nombre de population n'influe pas réellement le taux de criminalité .
 
-quatrième visualisation
-<iframe title="[ Les pays du monde au taux de criminalité le plus élevé  ]" aria-label="Interactive line chart" id="datawrapper-chart-ZMMhE" src="https://datawrapper.dwcdn.net/ZMMhE/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400" data-external="1"></iframe>
+<iframe title="[ Régions de France taux de criminalité / Population ]" aria-label="Multiple Pies" id="datawrapper-chart-wBG2J" src="https://datawrapper.dwcdn.net/wBG2J/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="388" data-external="1"></iframe>
 
-# Tableau des régions du monde au taux de criminalité le plus élevé au plus bas  : 
-<iframe title="[ Cartes Taux de criminalité dans le monde   ]" aria-label="Map" id="datawrapper-chart-wXqzv" src="https://datawrapper.dwcdn.net/wXqzv/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="381" data-external="1"></iframe>
+>>> Généré par Datawapper
+
+# Crimes dans le monde 
 
 | Pays                   | Taux de criminalité | LAT       | LONG      |
 |------------------------|---------------------|-----------|-----------|
@@ -118,21 +128,26 @@ quatrième visualisation
 | Suède                  | 1,90                | 60.1282   | 18.6435   |
 | Nouvelle-Zélande       | 2,10                | -40.9006  | 174.886   |
 
->>Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
+>>Tableau généré avec [Tables Generator](https://www.tablesgenerator.com) Source1: https://fr.mapsofworld.com/world-top-ten/countries-with-highest-reported-crime-rates.html/Source2: https://www.geo.fr/voyage/un-classement-fait-letat-des-pays-les-plus-dangereux-du-monde-214513/Source3: https://fr.wikipedia.org/wiki/Liste_des_pays_par_population/Source4: https://www.presentation-cv-simple.com/quel-est-le-pays-avec-le-plus-bas-taux-de-criminalite/
 
-# Visualisation :
-<iframe title="[ Régions de France taux de criminalité / Population ]" aria-label="Multiple Pies" id="datawrapper-chart-wBG2J" src="https://datawrapper.dwcdn.net/wBG2J/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="388" data-external="1"></iframe>
+## Les pays du monde au taux de criminalité le plus élevé  
+<iframe title="[ Les pays du monde au taux de criminalité le plus élevé  ]" aria-label="Interactive line chart" id="datawrapper-chart-ZMMhE" src="https://datawrapper.dwcdn.net/ZMMhE/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="400" data-external="1"></iframe>
+>> Généré par Datawapper
 
-# Dans le monde les cintinents 
+## Cartes des régions du monde au taux de criminalité du plus élevé au plus bas  : 
+<iframe title="[ Cartes Taux de criminalité dans le monde   ]" aria-label="Map" id="datawrapper-chart-wXqzv" src="https://datawrapper.dwcdn.net/wXqzv/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="381" data-external="1"></iframe>
+>> Généré par Datawapper
+
+## Les 7 continents 
 
 <iframe title="Les 7 continents " aria-label="Multiple Donuts" id="datawrapper-chart-gkvjn" src="https://datawrapper.dwcdn.net/gkvjn/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="418" data-external="1"></iframe>
 
-## Pourquoi avons nous voulu faire cette représentations des continents ? 
+### Pourquoi avons nous voulu faire cette représentations des continents ? 
 
  ces indicateurs peuvent  être affectés par des facteurs sociaux communs tels que le niveau de développement, la qualité des services publics, ou la stabilité sociale, il est important de noter qu'ils ne sont pas intrinsèquement liés de manière causale. Une société peut avoir un taux de mortalité élevé sans nécessairement avoir un taux de criminalité élevé, et vice versa. Les indicateurs doivent être compris dans leur contexte spécifique pour tirer des conclusions significatives sur le niveau de sécurité et de bien-être dans une société donnée.
 
 
-# Tableau des criminels qui ont marqué l'histoire:
+# Tableau des tueurs en série qui ont marqué l'histoire:
 
 | Nom            | Âge | Nationalité | Genre  |
 |----------------|-----|-------------|--------|
@@ -160,7 +175,7 @@ quatrième visualisation
 >>Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
 Source : https://www.jesuismort.com/cimetiere/criminel-et-criminelle
 
-## Voici la visulaisation du tableau avec un filtre sur les hommes et les femmes .
+## La visulaisation du tableau avec un filtre sur les hommes et les femmes .
 
 <iframe src='https://flo.uri.sh/visualisation/16607087/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16607087/?utm_source=embed&utm_campaign=visualisation/16607087' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
