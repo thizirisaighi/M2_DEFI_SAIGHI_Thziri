@@ -11,7 +11,7 @@
 5. [Crimes Raciaux  à New York](#NewYork)
 6. [Crimes dans le Monde](#Monde)
 7. [Tableau des tueurs en série qui ont marqué l'histoire](#Histoire)
-8. 
+
 # Introduction <a name="Intro"></a> 
 
 Bienvenue dans ce projet dédié à l'analyse approfondie et à l'exploration du domaine complexe et fascinant des crimes. À travers cette initiative, notre objectif est de plonger dans les différentes dimensions du comportement criminel, d'identifier les tendances émergentes, et de comprendre les enjeux sociaux associés à ce phénomène.
