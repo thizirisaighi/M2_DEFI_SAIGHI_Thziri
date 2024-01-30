@@ -96,6 +96,12 @@ Nous avons cette visualisation qui mets en avant le taux de polupation ainsi que
 
 >>> Généré par Datawapper
 
+ # Crimes Raciaux  à New York 
+ Dans ce graph, nous avonc filtré nos données selon le genre du criminel ( femme ou homme) et les crimes raciaux. 
+![Rawgraph Visualisation](https://raw.githubusercontent.com/thizirisaighi/M2_DEFI_SAIGHI_Thziri/main/viz(1).svg)
+
+
+
 # Crimes dans le monde 
 
 | Pays                   | Taux de criminalité | LAT       | LONG      |
@@ -143,8 +149,6 @@ Nous avons cette visualisation qui mets en avant le taux de polupation ainsi que
 ### Pourquoi avons nous voulu faire cette représentations des continents ? 
 
  ces indicateurs peuvent  être affectés par des facteurs sociaux communs tels que le niveau de développement, la qualité des services publics, ou la stabilité sociale, il est important de noter qu'ils ne sont pas intrinsèquement liés de manière causale. Une société peut avoir un taux de mortalité élevé sans nécessairement avoir un taux de criminalité élevé, et vice versa. Les indicateurs doivent être compris dans leur contexte spécifique pour tirer des conclusions significatives sur le niveau de sécurité et de bien-être dans une société donnée.
- ### Crimes et motifs en Amérique 
-![Rawgraph Visualisation](https://raw.githubusercontent.com/thizirisaighi/M2_DEFI_SAIGHI_Thziri/main/viz(1).svg)
 
 
 
