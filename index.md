@@ -3,6 +3,7 @@
 
 
 
+<!--
 # Sommaire
 1. [Introduction](#Intro)
 2. [Tueurs en Série](#Série)
@@ -12,6 +13,8 @@
 6. [Crimes dans le Monde](#Monde)
 7. [Tableau des tueurs en série qui ont marqué l'histoire](#Histoire)
 8. [Conclusion](#Conclusions)
+-->
+
 
 # Introduction <a name="Intro"></a> 
 
@@ -109,6 +112,7 @@ Nous avons cette visualisation qui mets en avant le taux de polupation ainsi que
 >>> Généré par Datawapper
 
  # Crimes Raciaux  à New York <a name="NewYork"></a>  
+ 
  Dans ce graph, nous avonc filtré nos données selon le genre du criminel ( femme ou homme) et les crimes raciaux. 
 ![Rawgraph Visualisation](https://raw.githubusercontent.com/thizirisaighi/M2_DEFI_SAIGHI_Thziri/main/viz(1).svg)
 
@@ -207,7 +211,7 @@ Dahmer a été arrêté en 1991 et condamné à 16 peines de réclusion à perp�
 
 Les crimes de Jeffrey Dahmer ont choqué le public en raison de leur brutalité et de la nature choquante des actes qu'il a commis. Dahmer a été décrit comme l'un des tueurs en série les plus notoires de l'histoire criminelle américaine.
  
-Voici les 15 premières victimesde Jeffrey Dahmer:
+## Voici les 15 premières victimes de Jeffrey Dahmer:
 
 <iframe src='https://flo.uri.sh/visualisation/16630213/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16630213/?utm_source=embed&utm_campaign=visualisation/16630213' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 >>> Généré par Flourish
