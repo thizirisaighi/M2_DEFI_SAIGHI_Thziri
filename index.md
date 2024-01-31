@@ -1,6 +1,6 @@
 # L'univers du Crime : Où Mystères et Intrigues Se Côtoient - Âmes Sensibles, S'Abstenir!"
 ![Image Loupe](https://github.com/thizirisaighi/M2_DEFI_SAIGHI_Thziri/blob/main/loupe.jpg?raw=true)
-
+>>> Source: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe33j6EuWTfCnvjT-gqyw297x4tqevQ2_5U7i-D-WhjUsWxEcP
 
    
 
@@ -91,6 +91,7 @@ Source Opendatasoft: Nombre des crimes par département en france: https://www.i
 
 
 ## Tableau des Régions de France au taux de criminalité le plus élévé avec leur superfécie et la population. 
+Nous avons Récupéré ces 5 régions de France au taux de criminalité le plus élevé ainsi que leur nombre de population et la superficie sur un fichier Excel . 
 
 | Régions                                | Superficie | Taux de criminalité | Population        |
 |----------------------------------------|------------|---------------------|-------------------|
@@ -102,7 +103,7 @@ Source Opendatasoft: Nombre des crimes par département en france: https://www.i
 
 
 >>Tableau généré avec [Tables Generator](https://www.tablesgenerator.com)
-Sources des informations : https://actu.fr/societe/carte-delinquance-et-criminalite-en-hausse-voici-les-departements-les-plus-touches_56998666.html
+Sources des informations : https://actu.fr/societe/carte-delinquance-et-criminalite-en-hausse-voici-les-departements-les-plus-touches_56998666.html / https://fr.statista.com/statistiques/499848/nombre-habitants-par-region-france/
 
 ## Visualisation :
 Nous avons cette visualisation qui mets en avant le taux de polupation ainsi que le taux de ciminalité. Ce qui nous permet d'étudier le lien étroit qu'entretiennent ces deux variables. En conclusion, il semble que le nombre de population n'influe pas réellement le taux de criminalité .
@@ -119,7 +120,7 @@ Nous avons cette visualisation qui mets en avant le taux de polupation ainsi que
 
 
 # Crimes dans le monde<a name="Monde"></a> 
-
+Nous avosn récupéré les données dans deux fichiers excel  avec le taux de criminalité le plus élevé et le plus bas et nous avons combiné les deux pour en faire qu'un seul tableau . Nous avons ajouter les deux colonnes "Lat"et "Long"
 | Pays                   | Taux de criminalité | LAT       | LONG      |
 |------------------------|---------------------|-----------|-----------|
 | Venezuela              | 82,08               | 6.4238    | -66.5897  |
@@ -202,7 +203,7 @@ Source : https://www.jesuismort.com/cimetiere/criminel-et-criminelle
 
 ### Jeffrey Dhamer
 ![Jeffrey Dahmer](https://github.com/thizirisaighi/M2_DEFI_SAIGHI_Thziri/blob/main/Jeffrey_Dahmer.jpg?raw=true)
-
+>>> Source : https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYceJVurGKK4AP8QNn5BI4U-8RvAbLk28ji5iwdjklEjPeYrAf
 
 
 Jeffrey Dahmer, également connu sous le nom de "The Milwaukee Cannibal" ou "The Milwaukee Monster", était un criminel américain notoire et un tueur en série. Né le 21 mai 1960 à Milwaukee, Wisconsin, Dahmer a été reconnu coupable d'avoir commis le meurtre de 17 jeunes hommes entre 1978 et 1991. Ses crimes incluaient le meurtre, le démembrement et la mutilation de ses victimes.
@@ -214,7 +215,7 @@ Les crimes de Jeffrey Dahmer ont choqué le public en raison de leur brutalité 
 ## Voici les 15 premières victimes de Jeffrey Dahmer:
 
 <iframe src='https://flo.uri.sh/visualisation/16630213/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16630213/?utm_source=embed&utm_campaign=visualisation/16630213' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
->>> Généré par Flourish
+>>> Généré par Flourish Source : https://www.urban-fusions.fr/qui-etait-les-victimes-de-jeffrey-dahmer-et-pourquoi-prenait-il-des-photos/
 
 # Conclusion <a name="Conclusion"></a> 
 Il est important de noter que l'idée que les criminels, en particulier ceux qui ont commis des actes graves, peuvent vivre de manière normale et souriante parmi nous est complexe. Certains individus peuvent masquer habilement leurs activités criminelles derrière une apparence de normalité comme le cas deJffrey Dahmer entre autres, , utilisant souvent des mécanismes d'adaptation sociaux pour se fondre dans la société. Cela peut rendre difficile la détection de comportements criminels.
