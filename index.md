@@ -115,7 +115,7 @@ Nous avons cette visualisation qui mets en avant le taux de polupation ainsi que
  # Crimes Raciaux  à New York <a name="NewYork"></a>  
  Nous sommes allés récupérer les jeux de données de l'open Data de New York .
  
- Dans ce graph, nous avonc filtré nos données selon le genre du criminel ( femme ou homme) et les crimes raciaux. 
+ Dans ce graph, nous avonc filtré nos données selon le genre du criminel ( femme/homme) et les crimes raciaux. 
 ![Rawgraph Visualisation](https://raw.githubusercontent.com/thizirisaighi/M2_DEFI_SAIGHI_Thziri/main/viz(1).svg)
 >>> Source: https://data.cityofnewyork.us/Public-Safety/NYPD-Hate-Crimes/bqiq-cu78
 
