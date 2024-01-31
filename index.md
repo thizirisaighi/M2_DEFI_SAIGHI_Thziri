@@ -109,7 +109,7 @@ Sources des informations : https://actu.fr/societe/carte-delinquance-et-criminal
 Nous avons cette visualisation qui mets en avant le taux de polupation ainsi que le taux de ciminalité. Ce qui nous permet d'étudier le lien étroit qu'entretiennent ces deux variables. En conclusion, il semble que le nombre de population n'influe pas réellement le taux de criminalité .
 
 <iframe title="[ Régions de France taux de criminalité / Population ]" aria-label="Multiple Pies" id="datawrapper-chart-wBG2J" src="https://datawrapper.dwcdn.net/wBG2J/2/" scrolling="no" frameborder="0" style="border: none;" width="600" height="388" data-external="1"></iframe>
-
+ 
 >>> Généré par Datawapper
 
  # Crimes Raciaux  à New York <a name="NewYork"></a>  
