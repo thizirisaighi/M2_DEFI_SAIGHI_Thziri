@@ -3,7 +3,7 @@
 
 
 
-<!--
+
 # Sommaire
 1. [Introduction](#Intro)
 2. [Tueurs en Série](#Série)
@@ -13,7 +13,7 @@
 6. [Crimes dans le Monde](#Monde)
 7. [Tableau des tueurs en série qui ont marqué l'histoire](#Histoire)
 8. [Conclusion](#Conclusions)
--->
+
 
 
 # Introduction <a name="Intro"></a> 
