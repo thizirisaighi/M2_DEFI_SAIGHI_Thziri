@@ -123,6 +123,7 @@ Nous avons cette visualisation qui mets en avant le taux de polupation ainsi que
 
 # Crimes dans le monde<a name="Monde"></a> 
 Nous avosn récupéré les données dans deux fichiers excel  avec le taux de criminalité le plus élevé et le plus bas et nous avons combiné les deux pour en faire qu'un seul tableau . Nous avons ajouter les deux colonnes "Lat"et "Long"
+
 | Pays                   | Taux de criminalité | LAT       | LONG      |
 |------------------------|---------------------|-----------|-----------|
 | Venezuela              | 82,08               | 6.4238    | -66.5897  |
