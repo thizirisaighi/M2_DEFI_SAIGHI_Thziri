@@ -122,7 +122,8 @@ Nous avons cette visualisation qui mets en avant le taux de polupation ainsi que
 
 
 # Crimes dans le monde<a name="Monde"></a> 
-Nous avosn récupéré les données dans deux fichiers excel  avec le taux de criminalité le plus élevé et le plus bas et nous avons combiné les deux pour en faire qu'un seul tableau . Nous avons ajouté les deux colonnes "Lat"et "Long"
+Nous avosn récupéré les données dans deux fichiers excel  avec le taux de criminalité le plus élevé et le plus bas et nous avons combiné les deux pour en faire qu'un seul tableau . Nous avons ajouté les deux colonnes "Lat"et "Long".
+Nous avons plusieurs sources pour récupérer l'ensemble de ces informations: Lat,Long, Population, taux de criminalité. 
 
 | Pays                   | Taux de criminalité | LAT       | LONG      |
 |------------------------|---------------------|-----------|-----------|
