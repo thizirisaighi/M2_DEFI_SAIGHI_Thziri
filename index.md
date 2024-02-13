@@ -167,7 +167,7 @@ Nous avons plusieurs sources pour récupérer l'ensemble de ces informations: La
 
 <iframe title="Les 7 continents " aria-label="Multiple Donuts" id="datawrapper-chart-gkvjn" src="https://datawrapper.dwcdn.net/gkvjn/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="418" data-external="1"></iframe>
 
-### Pourquoi avons nous voulu faire cette représentations des continents ? 
+### Pourquoi avons nous voulu faire cette représentation des continents ? 
 
  ces indicateurs peuvent  être affectés par des facteurs sociaux communs tels que le niveau de développement, la qualité des services publics, ou la stabilité sociale, il est important de noter qu'ils ne sont pas intrinsèquement liés de manière causale. Une société peut avoir un taux de mortalité élevé sans nécessairement avoir un taux de criminalité élevé, et vice versa. Les indicateurs doivent être compris dans leur contexte spécifique pour tirer des conclusions significatives sur le niveau de sécurité et de bien-être dans une société donnée.
 
