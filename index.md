@@ -41,7 +41,7 @@ Les tueurs en série présentent souvent des motifs récurrents et des caractér
 
 # Requete SPARQL <a name="SPARQL"></a> 
 
-Nous avons voulu utiliser des reqeuets SPARQL sur WIKIDATA pour avoir récupérer des données sur notre thème principal qui est les crimes et délits. Cependant, Wikidata ne nous fournit pas les informations nécessaires sur ce sujet. Nous avons néamoins utiliser une requetes Sparql qui  utilise le service wikibase:label pour obtenir les libellés (labels) de l'entité dans différentes langue 
+Nous avons voulu utiliser des reqeuets SPARQL sur WIKIDATA pour  récupérer des données sur notre thème principal qui est les crimes et délits. Cependant, Wikidata ne nous fournit pas les informations nécessaires sur ce sujet. Nous avons néamoins utilisé une requetes Sparql qui  se base sur le service wikibase:label pour obtenir les libellés (labels) de l'entité dans différentes langue 
 ## Le mot "Crime" dans toutes les langues : 
 ```sparql
 SELECT ?entite ?entiteLabel ?description
